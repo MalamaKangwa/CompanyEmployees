@@ -1,0 +1,2 @@
+2020-03-27 11:32:42.6554 INFO Company with id: 00000000-0000-0000-0000-000000000000 doesn't exist in the database.
+2020-03-27 11:34:51.9304 INFO Company with id: 00000000-0000-0000-0000-000000000000 doesn't exist in the database.
